@@ -14,7 +14,7 @@ Please run the following commands and replace the output with the command
 - Rubygems: `gem --version`
 - Bundler: `bundle --version`
 
-**Build log**
+**Build/installation log**
 
 <details>
 <summary>Full build output / output of `gem install`</summary>
