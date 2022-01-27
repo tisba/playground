@@ -1,0 +1,32 @@
+# bugs and issues
+- name: bug
+  description: Something isn't working
+  color: d73a4a
+- name: bug/crash
+  description: Bugs specific to crashes, segfaults, …
+  color: d73a4a
+- name: build issue
+  description: Issues related to installing or building mini racer
+  color: d73a4a
+
+# additional infos
+- { color: ffffff, name: "platform: windows/x86" }
+- { color: ffffff, name: "platform: linux/x86" }
+- { color: ffffff, name: "platform: darwin/x86" }
+- { color: ffffff, name: "platform: linux/aarch" }
+- { color: ffffff, name: "platform: darwin/arm64" }
+
+- name: validated
+  color: 0e8a16
+
+- name: PR welcome
+  color: 0e8a16
+
+- name: duplicate
+  color: eeeeee
+
+- name: enhancement
+  color: 84b6eb
+
+- name: feedback required
+  color: d876e3
