@@ -18,6 +18,7 @@ require "libv8-node"
 puts <<~EOS
 RUBY_VERSION : #{RUBY_VERSION}
 RUBY_PLATFORM: #{RUBY_PLATFORM}
+Gem::Platform.local: #{Gem::Platform.local}
 MiniRacer::LIBV8_NODE_VERSION: #{MiniRacer::LIBV8_NODE_VERSION}
 MiniRacer::VERSION: #{MiniRacer::VERSION}
 Libv8::Node::VERSION: #{Libv8::Node::VERSION}
