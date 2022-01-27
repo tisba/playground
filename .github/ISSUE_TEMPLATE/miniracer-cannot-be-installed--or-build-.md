@@ -13,6 +13,7 @@ Please run the following commands and replace the output with the command
 - Ruby: `ruby --version`
 - Rubygems: `gem --version`
 - Bundler: `bundle --version`
+- Installed gems: `gem list libv8-node mini_racer`
 
 **Build/installation log**
 
