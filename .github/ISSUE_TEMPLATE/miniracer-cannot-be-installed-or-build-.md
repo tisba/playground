@@ -1,6 +1,6 @@
 ---
 name: MiniRacer cannot be installed (or build)
-about: Bug report for build or installation
+about: Bug report for build or installation issues
 title: ''
 labels: build issue
 assignees: ''
